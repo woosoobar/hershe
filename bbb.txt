@@ -7,6 +7,6 @@ commit 222 from DEv
 300 add
 400 add
 500 add
-six add
+600 add
 ----------
 from chr commit 
